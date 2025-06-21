@@ -41,10 +41,17 @@ Se trata de una aplicación web construida con **Vue 3 + Vite** que implementa u
    https://jsonplaceholder.typicode.com/users
 
    ✅ Listado de usuarios con: nombre, username, email, teléfono
+   
    ✅ Agregar usuario (validación con HTML5)
+
    ✅ Editar usuario existente
+
    ✅ Eliminar usuario con confirmación (modal personalizado)
+
    ✅ Estados locales bien gestionados (sin modificar la API)
+
    ✅ Indicador de carga mientras se obtiene información
+
    ✅ Componentes reutilizables (UserForm, UserTable)
+
    ✅ Código limpio, comentado y organizado
