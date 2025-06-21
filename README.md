@@ -21,7 +21,7 @@ Se trata de una aplicación web construida con **Vue 3 + Vite** que implementa u
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/sandrokg107/Crud-Vue.git
-   cd myper-crud
+   cd Crud-Vue
    ```
 2. **Instala las dependencias:**:
 
